@@ -1,9 +1,8 @@
 .idea/
 src/.ipynb_checkpoints
-data/kagglecatsanddogs_3367a
-
-data/kagglecatsanddogs_3367a.zip
-
+data/
+data
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
